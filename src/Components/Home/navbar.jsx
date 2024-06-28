@@ -10,6 +10,7 @@ const Navbar = () => {
         <a className="text-white transition-all delay-50 ease-in   " href="#">Contact</a>
         <a className="text-white transition-all delay-50 ease-in  " href="#">Blog</a>
         <button className=" bg-white px-4 py-2 rounded-full text-black font-bold ">Login</button>
+        <a className="text-white" href="#">TITE</a>
       </div>
 
     </nav>
