@@ -18,14 +18,14 @@ const About = () => {
       </div>
 
       <div data-aos="fade-up" className=" px-10 flex flex-col justify-center order-2 md:order-2  ">
-        <h1 className="text-white font-roboto font-bold text-6xl  ">
+        <h1 className="text-yellow-500 font-roboto font-bold text-6xl  ">
           About me
         </h1>
         <br />
         <h1   className="text-yellow-500 font-roboto font-bold text-4xl ">
           Andrew Roi Pascual -Web developer
         </h1>
-        <h1 className="text-white ">
+        <h1 className="text-yellow-500 ">
           Hello! Andrew Roi Pascual  is an aspiring web developer based in
           Philippines who have a passion to create a beautiful, functional and user-friendly
           websites. who also eager to learn new things enagage on different challenges and
