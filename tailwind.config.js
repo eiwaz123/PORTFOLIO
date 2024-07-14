@@ -8,7 +8,12 @@ export default {
     extend: {
       fontFamily: {
         'roboto': ['Roboto Condensed', 'sans-serif'],
-      }
+      },
+      backgroundImage: {
+        'footer-wave': "url('src/assets/footerwave.svg')",
+        
+      },
+    
     },
   },
   plugins: [],

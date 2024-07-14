@@ -3,6 +3,7 @@ import Homepage from "./pages/Homepage.jsx";
 import About from "./pages/About.jsx";
 import Skill from "./pages/Skills.jsx";
 import Proj from "./pages/Proj.jsx";
+import Footer from "./pages/footer.jsx";
 function App() {
 
 
@@ -14,6 +15,7 @@ function App() {
         <About />
         <Skill />
         <Proj />
+        <Footer />
 
       </div>
     </>
